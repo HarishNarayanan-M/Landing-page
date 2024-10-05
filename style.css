@@ -1,7 +1,13 @@
 ul{
     list-style: none;
+    display: flex;
 }
 
 a{
     text-decoration: none;
 }
+
+.header{
+    display: flex;
+}
+
