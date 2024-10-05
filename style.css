@@ -1,6 +1,7 @@
 ul{
     list-style: none;
     display: flex;  
+    gap: 16px;
 }
 
 a{
@@ -15,6 +16,7 @@ a{
     background-color: #1F2937;
     color: #F9FAF8;
     font-size: 24px;
+    justify-content: space-between;
 }
 
 body{
