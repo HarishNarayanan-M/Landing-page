@@ -77,3 +77,9 @@ button{
     margin: 50px 140px;
     padding:25px 30px ;
  }
+
+.sign-up button{
+    border:2px solid #F9FAF8;
+    margin: 0;
+    align-self: flex-end;
+}
