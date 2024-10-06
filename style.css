@@ -123,3 +123,9 @@ button{
     width: 150px;
     text-align: center;
 }
+
+.quote{
+    background-color: #e5e7eb;
+    color: #1F2937;
+    font-style:italic;
+}
