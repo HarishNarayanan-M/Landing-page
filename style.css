@@ -76,6 +76,7 @@ button{
     justify-content: space-between;
     margin: 50px 140px;
     padding:25px 30px ;
+    border-radius: 5px;
  }
 
 .sign-up button{
