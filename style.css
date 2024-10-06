@@ -30,6 +30,7 @@ body{
     display: flex;
     background-color: #1F2937;
     padding: 8px 140px;
+    justify-content: space-between;
 }
 
 .main{
@@ -51,4 +52,6 @@ button{
     border-radius: 8px;
     margin-top: 16px;
 }
-
+ .hero img{
+    width: 500px;
+ }
