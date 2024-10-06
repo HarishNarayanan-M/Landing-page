@@ -110,11 +110,13 @@ button{
 
 .images{
     display:flex;
+    justify-content: space-evenly;
 }
 
 .images img{
     width: 150px;
     height: 132px;
+    border-radius: 8px;
 }
 
 .text-img{
