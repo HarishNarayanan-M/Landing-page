@@ -60,3 +60,8 @@ button{
  .hero-text{
     max-width: 700px;
  }
+
+ .footer{
+    background-color: #1F2937;
+    color:#F9FAF8;
+ }
