@@ -116,3 +116,8 @@ button{
     width: 150px;
     height: 132px;
 }
+
+.text-img{
+    width: 150px;
+    text-align: center;
+}
