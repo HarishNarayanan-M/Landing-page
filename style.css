@@ -140,4 +140,5 @@ button{
 .author{
     display: flex;
     justify-content: flex-end;
+    font-weight: 900;
 }
