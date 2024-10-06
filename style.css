@@ -45,5 +45,7 @@ body{
 button{
     background-color: #3882F6;
     color: #F9FAF8;
-
+    padding: 8px 40px;
+    border: none;
+    border-radius: 8px;
 }
