@@ -111,3 +111,8 @@ button{
 .images{
     display:flex;
 }
+
+.images img{
+    width: 150px;
+    height: 132px;
+}
