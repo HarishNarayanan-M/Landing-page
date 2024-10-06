@@ -132,6 +132,12 @@ button{
     padding: 95px 160px;
     margin-top: 60px;
 }
+
 .text-img div{
     color:#1F2937;
+}
+
+.author{
+    display: flex;
+    justify-content: flex-end;
 }
