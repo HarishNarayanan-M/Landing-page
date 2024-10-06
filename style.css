@@ -107,3 +107,7 @@ button{
     display: flex;
     justify-content: center;
 }
+
+.images{
+    display:flex;
+}
