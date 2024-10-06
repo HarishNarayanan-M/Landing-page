@@ -73,7 +73,7 @@ button{
     display: flex;
     background-color: #3882F6;
     color: #F9FAF8;
-    justify-content: center;
+    justify-content: space-between;
     margin: 50px 140px;
     padding:25px 30px ;
  }
