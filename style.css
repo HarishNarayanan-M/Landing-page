@@ -62,7 +62,9 @@ button{
  }
 
  .footer{
+    display: flex;
     background-color: #1F2937;
     color:#F9FAF8;
     padding: 20px 140px;
+    justify-content: center;
  }
