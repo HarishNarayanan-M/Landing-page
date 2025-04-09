@@ -5,24 +5,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Landing page</title>
     <link href="style.css" rel="stylesheet">
+    <script src="script.js" defer></script>
 </head>
 <body>
     <div class="header">
     <div class="name">Wonder Travel</div>
-    <ul>
+    <ul class="links">
         <li><a href="#">Destination</a></li>
         <li><a href="#">Register</a></li>
         <li><a href="#">Sign in</a></li>
     </ul>
+    <div class="burgermenu-btn"></div>
     </div>
-
+    <div class="burger-menu">
+        <ul>
+           
+            <li><a href="#">DESTINATION</a></li>
+            <li><a href="#">REGISTER</a></li>
+            <li><a href="#">SIGN IN</a></li>
+        </ul>
+    </div>
     <div class="hero">
     <div class="hero-text">
     <div class="main">Say yes to travel</div>
     <div class="sub">"Embark on a journey like no other, where every moment is crafted with care to ensure your experience is truly unforgettable. With our exceptional service tailored specifically for you, we invite you to explore breathtaking destinations and create memories that will last a lifetime."</div>
     <button>Sign up</button>
     </div>
-    <img src="./images/travel1.jpg" alt="foggy mountain">
+    <img src="./images/travel1.jpg" alt="foggy mountain" class="img1">
     </div>
 
     <div class="header2">Explore various places</div>
@@ -59,14 +68,16 @@
         -unknown
         </div>
     </div>
-
-    <div class="sign-up">
-    <div class="text">
-    <div class="up">Call to action! it's time!</div>
-    <div class="down">Sign up for our product by clicking that button right over there!</div>
-    </div>
-    <button>Sign up</button>
-    </div>
+<div class="cont1">
+    
+        <div class="sign-up">
+        <div class="text">
+        <div class="up">Call to action! it's time!</div>
+        <div class="down">Sign up for our product by clicking that button right over there!</div>
+        </div>
+        <button>Sign up</button>
+        </div>
+</div>
 
     <div class="footer">Copyright &copy; The Odin Project 2021</div>
 </body>
